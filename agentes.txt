@@ -1,0 +1,2 @@
+comunidadSNMP$1$1244$localhost
+comunidadSNMP$1$1232$192.168.119.128
